@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: azure;
+}
+
+.container{
+    width: 750px;
+    height: 500px;
+    border: 1px solid;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+    justify-content:space-around;
+}
+
+.container h1{
+    text-align: center;
+}
+.first-row{
+    display: inline-flex;
+}
+
+.second-row{
+     display: flex;
+}
+.third-row{
+    display:inline-flex;
+    width: 100%;
+    height: 100%;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+.third-row input{
+    width:100%;
+    padding-left: 10px;
+}
+
+.third-row select{
+     padding: 10px 20px;
+}
+.amount{
+    width: 100%;
+    margin-right: 60px;;
+}
+.duration{
+    margin-left: 20px;
+}
+
+.input-field{
+    border: 1px solid #999;
+}
+
+.input-field input{
+    width: 100%;
+    border:none;
+    outline: none;
+    padding: 10px;
+}
+
+.selection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.selection select{
+    padding: 10px 20px;
+}
+
+.confirm {
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    font-size: 25px;
+    
+}
+.cards img{
+    width: 100px;
+}

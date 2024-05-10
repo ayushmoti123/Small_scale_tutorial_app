@@ -1,0 +1,50 @@
+.ssc1{
+    
+    border-top-style: solid;
+    border-top-color: blue;
+    border-top-width: 10px;;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: mintcream;
+    
+}
+.ssc1 h1{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    color:darkslategray;
+}
+.ssc1 p{
+    font-family:auto;
+    font-size: 20px;
+    font-style: none;
+}
+.ssc1 h2{
+    font-size: 23px;
+    color:darkslategray;
+    font-weight: 600;
+    
+}
+.ssc1 a{
+    text-decoration: none;
+    color: darkturquoise;
+}
+.ssc1 h3{
+    font-size: 21px;
+    text-transform: uppercase;
+    color:darkslategray;
+}
+.ssc1 ul li{
+   align-items: center;
+    list-style: circle
+}
+
+.page button{
+    border-radius: 25px;
+    text-transform: uppercase;
+    width: 5%;
+    height: 5%;
+    color: black;
+    }
+

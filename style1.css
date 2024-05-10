@@ -1,0 +1,42 @@
+.ssc{
+    
+    border-top-style: solid;
+    border-top-color: blue;
+    border-top-width: 10px;;
+    margin-left: 35px;
+    margin-right: 35px;
+    background-color: mintcream;
+   
+.ssc h1{
+    font-size: 25px;
+    text-align: center;
+    text-transform: uppercase;
+    font-style: oblique;
+    color:darkslategray;
+}
+.ssc p{
+    font-family:auto;
+    font-size: 20px;
+    font-style: none;
+}
+.ssc h2{
+    font-size: 23px;
+    color:darkslategray;
+    font-weight: 600;
+    
+}
+
+.ssc a{
+    text-decoration: none;
+    color: darkturquoise;
+}
+.ssc ol li{
+    list-style: decimal;
+    display: inline-grid;
+    align-items:center;
+}
+    .img{
+    backface-visibility: hidden;
+        align-self: center;
+        
+    }

@@ -1,0 +1,35 @@
+.bg5{
+    position: relative;
+    top:2%;
+    left:40%;
+    height: 5vh;
+    transform:translate(-50%,-50%);
+    width:600px;
+    background-color:blue;
+    border-radius:10px;
+    
+}
+.bg5 h1{
+    border-bottom:3px solid gold; 
+    text-align: center;
+    font-style: italic;
+}
+.bg5 p{
+        font-family: Arial;
+        font-weight: 600;
+        font size:30px;
+}
+
+.bg5 ol li{
+    list-style:lower-roman;
+    text-align:left;
+    font-size: 25px;
+    font-weight: 500;
+}
+.timer form{
+    justify-items: flex-end;
+}
+.timer input{
+    border-radius: 10px;
+    font-family: cursive;
+}
